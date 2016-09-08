@@ -2,9 +2,9 @@
 
 valid actions:
 
-- ul addition -> a, +
-- ul subtraction -> s, -
-- ul multiplication -> m, '*'
-- ul division -> d, :, /
+- addition -> a, +
+- subtraction -> s, -
+- multiplication -> m, '*'
+- division -> d, :, /
 
 node calculator.js 6 + 8 
